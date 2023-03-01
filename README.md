@@ -4,7 +4,6 @@
 
 > Event website for TEDxJMI 2017
 
-## Screenshot
 
 
 
